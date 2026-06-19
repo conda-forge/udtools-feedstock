@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.7"
+  version: "0.2.8"
   python_check_max: "3.14"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/u/udtools/udtools-${{ version }}.tar.gz
-  sha256: 423396ececa70e2903c2c7cc1e6a259716122550cf41f77c1c2261ee27852213
+  sha256: 6dd0cbbf29200c2aa3a34ff63b0ea2705fb1b268f2f9e0fdb5ae6c492a87fe42
 
 build:
   number: 0
